@@ -1,0 +1,12 @@
+Copyright (c) 2026 Snappo (Spoilermixer). All rights reserved.
+
+This website and its code are made available only so that it can be used in a web browser.
+No permission is given to copy, modify, publish, distribute, sublicense or sell any part of
+the Snappo code, design, texts or images, in whole or in part, without written permission
+from the owner.
+
+Third-party components keep their own licences and notices:
+- tesseract.js and tesseract.js-core (ocr/), Apache License 2.0
+- pdf.js (pdf/), Apache License 2.0
+- TensorFlow.js and the MobileNet v2 model (ai/), Apache License 2.0
+- Fredoka and Nunito Sans fonts (fonts/), SIL Open Font License 1.1
