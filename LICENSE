@@ -9,4 +9,11 @@ Third-party components keep their own licences and notices:
 - tesseract.js and tesseract.js-core (ocr/), Apache License 2.0
 - pdf.js (pdf/), Apache License 2.0
 - TensorFlow.js and the MobileNet v2 model (ai/), Apache License 2.0
+- jsQR (qr/), Apache License 2.0
+- qrcode-generator (qr/), MIT License
 - Fredoka and Nunito Sans fonts (fonts/), SIL Open Font License 1.1
+
+The full licence texts are in THIRD-PARTY-NOTICES.txt.
+
+Brand names mentioned in Snappo (for example in examples, search links or share buttons)
+belong to their owners. Snappo uses them only to name things and is not linked to them.
