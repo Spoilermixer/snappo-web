@@ -7,4 +7,6 @@ Then tap Share → *Add to Home Screen*.
 
 Everything you add stays only on your own phone.
 
+Questions: hello@snappo.info
+
 © 2026 Snappo. All rights reserved.
