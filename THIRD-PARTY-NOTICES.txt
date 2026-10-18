@@ -289,3 +289,11 @@ DISCLAIMER
 
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
 
+
+================================================================
+OpenStreetMap data (speed/cams.json: fixed speed cameras and average speed checks, Netherlands and Belgium)
+© OpenStreetMap contributors. https://www.openstreetmap.org/copyright
+Made available under the Open Database License (ODbL) 1.0: https://opendatacommons.org/licenses/odbl/1-0/
+Snappo's extract (speed/cams.json) is a Derivative Database of OpenStreetMap and is offered under the same
+Open Database License 1.0; it is published as-is with every build of the Snappo website.
+================================================================
