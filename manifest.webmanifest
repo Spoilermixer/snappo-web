@@ -32,6 +32,7 @@
     "params": {
       "title": "title",
       "text": "text",
+      "url": "url",
       "files": [
         {
           "name": "photos",
@@ -41,5 +42,37 @@
         }
       ]
     }
-  }
+  },
+  "shortcuts": [
+    {
+      "name": "\ud83d\udcf7 Add",
+      "url": "./?go=add",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "\ud83d\udecd\ufe0f Lists",
+      "url": "./?go=lists",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "\ud83d\udd0e Search",
+      "url": "./?go=search",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
 }
