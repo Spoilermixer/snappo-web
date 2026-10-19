@@ -8,6 +8,7 @@ ai/    TensorFlow.js 4.22.0                             Copyright Google LLC    
 ai/    MobileNet v2 model (mn-*.wasm, mobilenet.json)   Copyright Google LLC                      Apache License 2.0
 qr/    jsQR 1.4.0                                       Copyright Cosmo Wolfe                     Apache License 2.0
 qr/    qrcode-generator 2.0.4                           Copyright (c) 2009 Kazuhiko Arase         MIT License
+bar/   ZXing for JS (@zxing/library 0.21.3)             Copyright ZXing authors and contributors  Apache License 2.0 (includes jai-imageio parts, BSD-style licence below)
 fonts/ Fredoka                                          Copyright 2016 The Fredoka Project Authors     SIL Open Font License 1.1
 fonts/ Nunito Sans                                      Copyright 2016 The Nunito Sans Project Authors SIL Open Font License 1.1
 
@@ -296,4 +297,55 @@ OpenStreetMap data (speed/cams.json: fixed speed cameras and average speed check
 Made available under the Open Database License (ODbL) 1.0: https://opendatacommons.org/licenses/odbl/1-0/
 Snappo's extract (speed/cams.json) is a Derivative Database of OpenStreetMap and is offered under the same
 Open Database License 1.0; it is published as-is with every build of the Snappo website.
+================================================================
+
+========================================================================
+jai-imageio
+========================================================================
+
+Copyright (c) 2005 Sun Microsystems, Inc.
+Copyright © 2010-2014 University of Manchester
+Copyright © 2010-2015 Stian Soiland-Reyes
+Copyright © 2015 Peter Hull
+All Rights Reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+- Redistribution of source code must retain the above copyright
+  notice, this list of conditions and the following disclaimer.
+
+- Redistribution in binary form must reproduce the above copyright
+  notice, this list of conditions and the following disclaimer in
+  the documentation and/or other materials provided with the
+  distribution.
+
+Neither the name of Sun Microsystems, Inc. or the names of
+contributors may be used to endorse or promote products derived
+from this software without specific prior written permission.
+
+This software is provided "AS IS," without a warranty of any
+kind. ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND
+WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY
+EXCLUDED. SUN MIDROSYSTEMS, INC. ("SUN") AND ITS LICENSORS SHALL
+NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF
+USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS
+DERIVATIVES. IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR
+ANY LOST REVENUE, PROFIT OR DATA, OR FOR DIRECT, INDIRECT, SPECIAL,
+CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED AND
+REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF THE USE OF OR
+INABILITY TO USE THIS SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+You acknowledge that this software is not designed or intended for
+use in the design, construction, operation or maintenance of any
+nuclear facility.
+(part of bar/zxing.min.js, ZXing for JS 0.21.3)
+
+================================================================
+Open Food Facts (product names looked up by barcode, only when the user turns it on; nothing is shipped with Snappo)
+© Open Food Facts contributors. https://world.openfoodfacts.org
+Database under the Open Database License (ODbL) 1.0; product texts under the Database Contents License 1.0.
 ================================================================
