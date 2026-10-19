@@ -1,0 +1,3 @@
+Contact: mailto:hello@snappo.info
+Expires: 2027-10-19T00:00:00Z
+Preferred-Languages: nl, en
