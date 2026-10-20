@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://snappo.info/sitemap.xml
