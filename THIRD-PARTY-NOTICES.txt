@@ -292,11 +292,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 
 
 ================================================================
-OpenStreetMap data (speed/cams.json: fixed speed cameras and average speed checks, Netherlands and Belgium)
+OpenStreetMap data (speed/cams.json: fixed speed cameras and average speed checks; road/max.json: speed limits of the bigger roads; Netherlands and Belgium)
 © OpenStreetMap contributors. https://www.openstreetmap.org/copyright
 Made available under the Open Database License (ODbL) 1.0: https://opendatacommons.org/licenses/odbl/1-0/
-Snappo's extract (speed/cams.json) is a Derivative Database of OpenStreetMap and is offered under the same
-Open Database License 1.0; it is published as-is with every build of the Snappo website.
+Snappo's extracts (speed/cams.json, road/max.json) are Derivative Databases of OpenStreetMap and is offered under the same
+Open Database License 1.0; they are published as-is with every build of the Snappo website.
 ================================================================
 
 ========================================================================
