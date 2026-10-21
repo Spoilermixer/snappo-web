@@ -1,7 +1,7 @@
 {
   "name": "Snappo",
   "short_name": "Snappo",
-  "description": "Snap it. Know it. Keep it.",
+  "description": "One app for your daily life, together with your friends, and your data stays yours.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

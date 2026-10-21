@@ -1,11 +1,13 @@
 # Snappo 📸
 
-**Snap it. Know it. Keep it.** All the devices in your home, safe on your phone.
+**One app for your daily life, together with your friends, and your data stays yours.**
+
+Your things, lists, parcels, drives and meetings, locked on your own phone. No account, no trackers.
+
+*Your data. Your property. Your value.*
 
 Open it on your iPhone in Safari: **https://snappo.info/**
 Then tap Share → *Add to Home Screen*.
-
-Everything you add stays only on your own phone.
 
 Questions: hello@snappo.info
 
