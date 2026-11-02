@@ -15,7 +15,7 @@ fonts/ Nunito Sans                                      Copyright 2016 The Nunit
 tiles/ Tile photos (small, cropped, colour-graded; some combined two photos with a white line). Each keeps its own licence:
          Pexels photos: Pexels License (free to use, changes allowed, no credit needed; we credit anyway) https://www.pexels.com/license/
          Unsplash photo: Unsplash License https://unsplash.com/license
-         Wikimedia Commons photos: Creative Commons Attribution-ShareAlike (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/
+         Wikimedia Commons photos: Creative Commons Attribution-ShareAlike (CC BY-SA, version as on each photo's Commons page) https://creativecommons.org/licenses/by-sa/4.0/
            Our changed versions of those (todo.jpg, rain.jpg) are shared under the same CC BY-SA licence.
        dev.jpg      Devices          Lisa Anna (Pexels 19916750) + Jakub Zerdzicki (Pexels 30366457)
        svc.jpg      Services         Nataliya Vaitkevich (Pexels 6863175) + Mikhail Nilov (Pexels 7735624)
@@ -31,7 +31,7 @@ tiles/ Tile photos (small, cropped, colour-graded; some combined two photos with
        groc.jpg     Shopping         ShotPot (Pexels 7705352)
        speed.jpg    Speed cameras    Jef K (Pexels 31001243)
        fuel.jpg     Fuel             Jakob Schlothane (Pexels 12015253)
-       rain.jpg     Weather          Kwizera + Memorino, Wikimedia Commons, CC BY-SA
+       rain.jpg     Weather          Emmanuel Kwizera (umbrella) + Memorino (windmill), Wikimedia Commons, CC BY-SA
        orders.jpg   Orders           Ivan S (Pexels 7620566)
        gift.jpg     Gifts & wishes   Rasa Ziede (Pexels 24739723)
        diy.jpg      DIY shop         Elena Kravets (Pexels 36378857)
