@@ -32,6 +32,8 @@ tiles/ Tile photos (small, cropped, colour-graded; some combined two photos with
        speed.jpg    Speed cameras    Jef K (Pexels 31001243)
        fuel.jpg     Fuel             Jakob Schlothane (Pexels 12015253)
        rain.jpg     Weather          Emmanuel Kwizera (umbrella) + Memorino (windmill), Wikimedia Commons, CC BY-SA
+                      https://commons.wikimedia.org/wiki/File:A_man_walks_through_heavy_rain_under_an_umbrella_in_Kigali,_Rwanda._Emmanuel_Kwizera.jpg
+                      https://commons.wikimedia.org/wiki/File:M%C3%BChle_Kinderdijk.JPG
        orders.jpg   Orders           Ivan S (Pexels 7620566)
        gift.jpg     Gifts & wishes   Rasa Ziede (Pexels 24739723)
        diy.jpg      DIY shop         Elena Kravets (Pexels 36378857)
