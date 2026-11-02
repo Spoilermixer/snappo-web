@@ -12,6 +12,36 @@ bar/   ZXing for JS (@zxing/library 0.21.3)             Copyright ZXing authors 
 fonts/ Fredoka                                          Copyright 2016 The Fredoka Project Authors     SIL Open Font License 1.1
 fonts/ Nunito Sans                                      Copyright 2016 The Nunito Sans Project Authors SIL Open Font License 1.1
 
+tiles/ Tile photos (small, cropped, colour-graded; some combined two photos with a white line). Each keeps its own licence:
+         Pexels photos: Pexels License (free to use, changes allowed, no credit needed; we credit anyway) https://www.pexels.com/license/
+         Unsplash photo: Unsplash License https://unsplash.com/license
+         Wikimedia Commons photos: Creative Commons Attribution-ShareAlike (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/
+           Our changed versions of those (todo.jpg, rain.jpg) are shared under the same CC BY-SA licence.
+       dev.jpg      Devices          Lisa Anna (Pexels 19916750) + Jakub Zerdzicki (Pexels 30366457)
+       svc.jpg      Services         Nataliya Vaitkevich (Pexels 6863175) + Mikhail Nilov (Pexels 7735624)
+       coll.jpg     Collections      Peter Dyllong (Pexels 36352454)
+       ids.jpg      ID papers        Jakub Zerdzicki (Pexels 33497885)
+       move.jpg     Moving boxes     Kaboompics (Pexels 4506265)
+       home.jpg     At home          Selim Çetin (Pexels 19081155)
+       news.jpg     News             Yelena Odintsova (Pexels 10556711)
+       todo.jpg     To do            Dietmar Rabich, Wikimedia Commons, CC BY-SA 4.0
+       chat.jpg     Chat             RDNE Stock project (Pexels 6669782)
+       road.jpg     On the road      Mizuno K (Pexels 13929262)
+       sint.jpg     Sinterklaas      KoolShooters (Pexels 6194118)
+       groc.jpg     Shopping         ShotPot (Pexels 7705352)
+       speed.jpg    Speed cameras    Jef K (Pexels 31001243)
+       fuel.jpg     Fuel             Jakob Schlothane (Pexels 12015253)
+       rain.jpg     Weather          Kwizera + Memorino, Wikimedia Commons, CC BY-SA
+       orders.jpg   Orders           Ivan S (Pexels 7620566)
+       gift.jpg     Gifts & wishes   Rasa Ziede (Pexels 24739723)
+       diy.jpg      DIY shop         Elena Kravets (Pexels 36378857)
+       drug.jpg     Drugstore        Babak Eshaghian (Unsplash)
+       meet.jpg     Plan a meeting   Kaboompics (Pexels 5387232)
+       stocks.jpg   Stocks           Rafael Minguet Delgado (Pexels 38412413)
+       markets.jpg  Markets          César O'neill (Pexels 33367162)
+       priv.jpg     Privacy          Pixabay (Pexels 164425)
+       pays.jpg, dutch.jpg, recipes.jpg: Snappo's own drawings.
+
 Some files were renamed (for example eng-data.wasm, mn-*.wasm) so the app can load and cache them; their contents are unchanged.
 
 ================================================================================
