@@ -37,7 +37,9 @@
         {
           "name": "photos",
           "accept": [
-            "image/*"
+            "image/*",
+            "application/pdf",
+            ".pdf"
           ]
         }
       ]
